@@ -7,7 +7,7 @@
 #include <algorithm>
 #include <random>
 
-static const int SIMULATION_STEPS = 10;
+static const int SIMULATION_STEPS = 1000;
 
 
 enum class State : char {
